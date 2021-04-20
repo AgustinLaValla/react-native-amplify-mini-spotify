@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-spotiserver-dev-143419-authRole",
+      "UnauthRoleArn": "arn:aws:iam::845068608633:role/amplify-spotiserver-dev-143419-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::845068608633:role/amplify-spotiserver-dev-143419-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-spotiserver-dev-143419-deployment",
+      "UnauthRoleName": "amplify-spotiserver-dev-143419-unauthRole",
+      "StackName": "amplify-spotiserver-dev-143419",
+      "StackId": "arn:aws:cloudformation:us-east-1:845068608633:stack/amplify-spotiserver-dev-143419/511d7810-a06c-11eb-aab2-0af655d326e7",
+      "AmplifyAppId": "d1g0x4y8de7s3"
+    }
+  }
+}
